@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+from factors import *
+if __name__ == '__main__':
+
+	print(sys_time(prime_factors))
